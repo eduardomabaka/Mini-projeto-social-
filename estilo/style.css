@@ -10,7 +10,7 @@ html,body{
   width: 100vw;
 }
 body{
-  background: black url('imagens/fundo-madeira.jpg') top center no-repeat fixed;
+  background: black url('../imagens/fundo-madeira.jpg') top center no-repeat fixed;
   background-size: cover;
 }
 div{
@@ -19,7 +19,7 @@ div{
 }
 #phone{
   position: absolute;
-  background: url('imagens/frame-iphone.png') center center no-repeat;
+  background: url('../imagens/frame-iphone.png') center center no-repeat;
   background-size: cover;
   width: 311px;
   height: 627px;

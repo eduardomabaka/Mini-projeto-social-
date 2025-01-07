@@ -1,0 +1,18 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+  a{
+    position: sticky;
+    bottom: 0;
+    display: block;
+    background: red;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+  img{
+    width: 100vw;
+  }
